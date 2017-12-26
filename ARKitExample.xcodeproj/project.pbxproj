@@ -15,7 +15,6 @@
 		392BB82C1EA19A7C00FBBAC8 /* Plane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 392BB82B1EA19A7C00FBBAC8 /* Plane.swift */; };
 		3987BEDC1E9E057F00167FAC /* Gesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3987BEDB1E9E057F00167FAC /* Gesture.swift */; };
 		39C0B9511E9C63CB003FCA0C /* HitTestVisualization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C0B9501E9C63CB003FCA0C /* HitTestVisualization.swift */; };
-		39C0B9591E9C6B1F003FCA0C /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C0B9571E9C6B1F003FCA0C /* SettingsViewController.swift */; };
 		39C0B95A1E9C6B1F003FCA0C /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C0B9581E9C6B1F003FCA0C /* Utilities.swift */; };
 		39D4A8BE1EA1AF530006EC65 /* PlaneDebugVisualization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D4A8BD1EA1AF530006EC65 /* PlaneDebugVisualization.swift */; };
 		39D8DC1B1E8ADAE600386B05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39D8DC1A1E8ADAE600386B05 /* LaunchScreen.storyboard */; };
@@ -24,9 +23,7 @@
 		C40FE52B1EC239F100732B01 /* Cup.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40FE5251EC239F100732B01 /* Cup.swift */; };
 		C40FE52C1EC239F100732B01 /* Lamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40FE5261EC239F100732B01 /* Lamp.swift */; };
 		C40FE52E1EC239F100732B01 /* Vase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40FE5281EC239F100732B01 /* Vase.swift */; };
-		C41366B91EB80DD400EC054A /* TextManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41366B81EB80DD400EC054A /* TextManager.swift */; };
 		C42A71BD1E9C0AF200944367 /* FocusSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42A71BC1E9C0AF200944367 /* FocusSquare.swift */; };
-		C490DAC41E9AB63400210960 /* VirtualObjectSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C490DAC31E9AB63400210960 /* VirtualObjectSelectionViewController.swift */; };
 		C4E87DD91EA6B40F002117D6 /* VirtualObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E87DD81EA6B40F002117D6 /* VirtualObject.swift */; };
 		C4FBC02B1EC6438B003F7864 /* ARCameraTrackingState.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FBC02A1EC6438B003F7864 /* ARCameraTrackingState.swift */; };
 /* End PBXBuildFile section */
@@ -44,7 +41,6 @@
 		392BB82B1EA19A7C00FBBAC8 /* Plane.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
 		3987BEDB1E9E057F00167FAC /* Gesture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gesture.swift; sourceTree = "<group>"; };
 		39C0B9501E9C63CB003FCA0C /* HitTestVisualization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HitTestVisualization.swift; sourceTree = "<group>"; };
-		39C0B9571E9C6B1F003FCA0C /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		39C0B9581E9C6B1F003FCA0C /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		39D4A8BD1EA1AF530006EC65 /* PlaneDebugVisualization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaneDebugVisualization.swift; sourceTree = "<group>"; };
 		39D8DC1A1E8ADAE600386B05 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -53,9 +49,7 @@
 		C40FE5251EC239F100732B01 /* Cup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Cup.swift; path = "ARKitExample/Virtual Objects/Cup.swift"; sourceTree = SOURCE_ROOT; };
 		C40FE5261EC239F100732B01 /* Lamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Lamp.swift; path = "ARKitExample/Virtual Objects/Lamp.swift"; sourceTree = SOURCE_ROOT; };
 		C40FE5281EC239F100732B01 /* Vase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Vase.swift; path = "ARKitExample/Virtual Objects/Vase.swift"; sourceTree = SOURCE_ROOT; };
-		C41366B81EB80DD400EC054A /* TextManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextManager.swift; sourceTree = "<group>"; };
 		C42A71BC1E9C0AF200944367 /* FocusSquare.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FocusSquare.swift; sourceTree = "<group>"; };
-		C490DAC31E9AB63400210960 /* VirtualObjectSelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VirtualObjectSelectionViewController.swift; sourceTree = "<group>"; };
 		C4E87DD81EA6B40F002117D6 /* VirtualObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VirtualObject.swift; path = ../VirtualObject.swift; sourceTree = "<group>"; };
 		C4FBC02A1EC6438B003F7864 /* ARCameraTrackingState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARCameraTrackingState.swift; sourceTree = "<group>"; };
 		C7F76951F8992F473202F831 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
@@ -110,9 +104,6 @@
 				3929C48D1E89EC2C00E00B60 /* ViewController.swift */,
 				C40DF57B1EC2330700D9D59E /* Virtual Objects */,
 				113B64D01ECA81CA0071CBD1 /* UI Elements */,
-				39C0B9571E9C6B1F003FCA0C /* SettingsViewController.swift */,
-				C490DAC31E9AB63400210960 /* VirtualObjectSelectionViewController.swift */,
-				C41366B81EB80DD400EC054A /* TextManager.swift */,
 				C4FBC02A1EC6438B003F7864 /* ARCameraTrackingState.swift */,
 				39C0B9581E9C6B1F003FCA0C /* Utilities.swift */,
 				3929C49E1E89EE4400E00B60 /* Models.scnassets */,
@@ -231,7 +222,6 @@
 				C40FE52B1EC239F100732B01 /* Cup.swift in Sources */,
 				C40FE52A1EC239F100732B01 /* Chair.swift in Sources */,
 				3929C48E1E89EC2C00E00B60 /* ViewController.swift in Sources */,
-				C41366B91EB80DD400EC054A /* TextManager.swift in Sources */,
 				39C0B95A1E9C6B1F003FCA0C /* Utilities.swift in Sources */,
 				C40FE52E1EC239F100732B01 /* Vase.swift in Sources */,
 				392BB82C1EA19A7C00FBBAC8 /* Plane.swift in Sources */,
@@ -239,8 +229,6 @@
 				C4E87DD91EA6B40F002117D6 /* VirtualObject.swift in Sources */,
 				C40FE5291EC239F100732B01 /* Candle.swift in Sources */,
 				39D4A8BE1EA1AF530006EC65 /* PlaneDebugVisualization.swift in Sources */,
-				39C0B9591E9C6B1F003FCA0C /* SettingsViewController.swift in Sources */,
-				C490DAC41E9AB63400210960 /* VirtualObjectSelectionViewController.swift in Sources */,
 				C42A71BD1E9C0AF200944367 /* FocusSquare.swift in Sources */,
 				3929C48C1E89EC2C00E00B60 /* AppDelegate.swift in Sources */,
 				C4FBC02B1EC6438B003F7864 /* ARCameraTrackingState.swift in Sources */,
