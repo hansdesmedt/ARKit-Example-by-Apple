@@ -89,11 +89,7 @@ extension VirtualObject {
 	}
 	
 	static let availableObjects: [VirtualObject] = [
-		Candle(),
-		Cup(),
-		Vase(),
-		Lamp(),
-		Chair()
+		Text(),
 	]
 }
 
